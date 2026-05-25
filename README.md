@@ -45,7 +45,7 @@ This commands includes
 <img width="1920" height="572" alt="Screenshot (485)" src="https://github.com/user-attachments/assets/83668b62-bda4-4cd3-b858-1d3b75b24e82" />
 ## arp:
 <img width="1920" height="758" alt="Screenshot (486)" src="https://github.com/user-attachments/assets/6f799dfd-e2df-474e-8ff6-a40fb14c578d" />
-## systeminfo
+## systeminfo:
 <img width="1920" height="1080" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/360f1d50-d489-4fb2-bf4c-b3cc66b78ea8" />
 
 
